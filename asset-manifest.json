@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kemit_landing_page/static/css/main.78db54f8.css",
+    "main.js": "/kemit_landing_page/static/js/main.ef20f597.js",
+    "static/js/453.30cf128b.chunk.js": "/kemit_landing_page/static/js/453.30cf128b.chunk.js",
+    "static/media/logo.png": "/kemit_landing_page/static/media/logo.1c992d8507a3e4a43234.png",
+    "index.html": "/kemit_landing_page/index.html",
+    "main.78db54f8.css.map": "/kemit_landing_page/static/css/main.78db54f8.css.map",
+    "main.ef20f597.js.map": "/kemit_landing_page/static/js/main.ef20f597.js.map",
+    "453.30cf128b.chunk.js.map": "/kemit_landing_page/static/js/453.30cf128b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78db54f8.css",
+    "static/js/main.ef20f597.js"
+  ]
+}
