@@ -74,7 +74,7 @@ const VisionTab: React.FC = () => {
     formData.append('lang', selectedLanguage); // Use the selected language
 
     try {
-      const response = await fetch('https://1c09-156-196-50-227.ngrok-free.app/cnn_model/', {
+      const response = await fetch('https://006f3af952ed.ngrok-free.app/cnn_model/', {
         method: 'POST',
         body: formData,
       });
