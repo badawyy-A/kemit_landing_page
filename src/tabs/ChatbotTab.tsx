@@ -38,7 +38,7 @@ const ChatbotTab: React.FC = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch('https://1c09-156-196-50-227.ngrok-free.app/chat/', {
+      const response = await fetch('https://006f3af952ed.ngrok-free.app/chat/', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text: inputMessage })
